@@ -1,2 +1,2 @@
-# uhr-projekt
-Ein Uhr zu programmieren
+# watch-project
+Ziel : Ein Uhr zu programmieren
